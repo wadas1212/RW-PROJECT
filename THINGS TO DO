@@ -1,0 +1,5 @@
+Both client.py and ransom.py should be one python code, but client.py should be run first before python.py
+UNIQUE CODE IN CLIENT.PY SHOULD BE SHOWN IN THE RANSOMNOTE, WHICH IS THE SAME AS EMAIL_ME.TXT
+EMAIL_ME.txt which is to be on desktop should be moved to the folder that should zipped before zipping,
+this means that the zipped folder should contain Info.txt and EMAIL_ME.txt
+
