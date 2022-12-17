@@ -3,3 +3,13 @@ UNIQUE CODE IN CLIENT.PY SHOULD BE SHOWN IN THE RANSOMNOTE, WHICH IS THE SAME AS
 EMAIL_ME.txt which is to be on desktop should be moved to the folder that should zipped before zipping,
 this means that the zipped folder should contain Info.txt and EMAIL_ME.txt
 
+
+
+We can only run it as admin, can you help us run it without admin,
+
+
+The encryption_key, and then Info.txt will be in one folder, ziped and then sent to the server.
+
+If encryption is on going and victim restarts the laptop, the encryption doesn't continue again,
+
+Increase threading
